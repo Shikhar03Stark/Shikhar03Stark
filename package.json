@@ -1,0 +1,29 @@
+{
+  "name": "shikhar03stark",
+  "version": "1.0.0",
+  "description": "Readme for Github Profile",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shikhar03Stark/Shikhar03Stark.git"
+  },
+  "keywords": [
+    "readme"
+  ],
+  "author": "Harshit Vishwakarma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shikhar03Stark/Shikhar03Stark/issues"
+  },
+  "homepage": "https://github.com/Shikhar03Stark/Shikhar03Stark#readme",
+  "engines": {
+    "node": "v16"
+  },
+  "dependencies": {
+    "liquidjs": "^10.8.3"
+  },
+  "type": "module"
+}
