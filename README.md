@@ -3,7 +3,7 @@
 - 👜 Experience at **INTUIT**
 - 🔭 I’m currently working on **Spring, AWS**
 - 🌱 I’m currently learning **System Design, Algorithms**
-- 👯 I’m looking for 
+- 👯 I’m looking for Software Engineer, Backend Engineer
 - 💬 Ask me about **Backend engineering, Data Structures & Algorithms**
 - 📫 How to reach me: hv.harshit321@gmail.com
 - 📝 Resume: [On Google Drive](https://drive.google.com/file/d/1EllU0qTRc_3ayKUVYs1QcuyBiB-P5Rds/view?usp=drive_link)

@@ -3,6 +3,7 @@ export const globalVariables = {
     'working_on': `**Spring, AWS**`,
     'learning': `**System Design, Algorithms**`,
     'ask_me': `**Backend engineering, Data Structures & Algorithms**`,
+    'open_roles': `Software Engineer, Backend Engineer`,
     'email': `hv.harshit321@gmail.com`,
     'resume_link': '[On Google Drive](https://drive.google.com/file/d/1EllU0qTRc_3ayKUVYs1QcuyBiB-P5Rds/view?usp=drive_link)'
 }
