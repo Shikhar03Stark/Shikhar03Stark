@@ -1,7 +1,7 @@
 # Hi there 👋
 - 😄 I'm **Harshit Vishwakarma**
 - 👜 Experience at **INTUIT**
-- 🔭 I’m currently working on **Spring, AWS**
+- 🔭 I’m currently working on **Golang, Spring, AWS**
 - 🌱 I’m currently learning **System Design, Algorithms**
 - 👯 I’m looking to work as Software Engineer, Backend Engineer
 - 💬 Ask me about **Backend engineering, Data Structures & Algorithms**
