@@ -1,6 +1,6 @@
 # Hi there 👋
 - 😄 I'm **Harshit Vishwakarma**
-- 👜 Experience at **INTUIT**
+- 👜 Software Engineer at **Microsoft, Ex-Intuit**
 - 🔭 I’m currently working on **Golang, Spring, AWS**
 - 🌱 I’m currently learning **System Design, Algorithms**
 - 👯 I’m looking to work as Software Engineer, Backend Engineer
