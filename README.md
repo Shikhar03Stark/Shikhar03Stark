@@ -1,9 +1,8 @@
 # Hi there 👋
 - 😄 I'm **Harshit Vishwakarma**
 - 👜 Software Engineer at **Microsoft, Ex-Intuit**
-- 🔭 I’m currently working on **Golang, Spring, AWS**
+- 🔭 I’m currently working on **C#, Golang, Spring, Azure, AWS**
 - 🌱 I’m currently learning **System Design, Algorithms**
-- 👯 I’m looking to work as Software Engineer, Backend Engineer
 - 💬 Ask me about **Backend engineering, Data Structures & Algorithms**
 - 📫 How to reach me: hv.harshit321@gmail.com
 - 📝 Resume: [On Google Drive](https://drive.google.com/file/d/1EllU0qTRc_3ayKUVYs1QcuyBiB-P5Rds/view?usp=drive_link)
