@@ -5,7 +5,6 @@
 - 🌱 I’m currently learning **System Design, Algorithms**
 - 💬 Ask me about **Backend engineering, Data Structures & Algorithms**
 - 📫 How to reach me: hv.harshit321@gmail.com
-- 📝 Resume: [On Google Drive](https://drive.google.com/file/d/1EllU0qTRc_3ayKUVYs1QcuyBiB-P5Rds/view?usp=drive_link)
 
 ## My Problem Solving 🔥
 [![Leetcode Stats](https://leetcard.jacoblin.cool/Shikhar03Stark?theme=unicorn&extension=activity)](https://leetcode.com/shikhar03Stark/)
